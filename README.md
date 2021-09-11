@@ -5,3 +5,4 @@
 - [Python3 For InfoSec Pros](https://pythonforcybersecurity.com/courses/python3-for-infosec-professionals/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation?action=enroll)
+- [The Best Way to Learn Python](https://simpleprogrammer.com/get-started-learning-python/)
