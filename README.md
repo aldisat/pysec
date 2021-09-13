@@ -12,3 +12,5 @@
 
 ## Resource
 - [Awesome Python](https://github.com/vinta/awesome-python)
+- [Real Python](https://realpython.com)
+- [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
