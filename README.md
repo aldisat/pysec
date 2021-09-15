@@ -6,6 +6,11 @@
 - [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation?action=enroll)
 - [The Best Way to Learn Python](https://simpleprogrammer.com/get-started-learning-python/)
 
+## Books
+- Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers
+- Black Hat Python: Python Programming for Hackers and Pentesters
+- Grey Hat Python: Python Programming for Hackers and Reverse Engineers
+
 ## The Zen
 ```
 Beautiful is better than ugly.
