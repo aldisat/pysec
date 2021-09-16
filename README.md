@@ -5,14 +5,15 @@
 ## Networking
 - Socket
 
-## Books
+## Resource
+### Books
 - Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers
 - Black Hat Python: Python Programming for Hackers and Pentesters
 - Grey Hat Python: Python Programming for Hackers and Reverse Engineers
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation?action=enroll)
 
-## The Zen
+### The Zen
 ```
 Beautiful is better than ugly.
 Explicit is better than implicit.
@@ -35,7 +36,7 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 ```
 
-## Learn Python
+### Learn Python
 - [freecodecamp - Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
 - [Python Jumpstart by Building 10 Apps Course Demos](https://github.com/mikeckennedy/python-jumpstart-course-demos)
 - [Awesome Python](https://github.com/vinta/awesome-python)
