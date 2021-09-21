@@ -20,3 +20,4 @@
 - [Real Python](https://realpython.com)
 - [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
 - [Python programming tutorial](https://pythonprogramming.net/)
+- [Pythontic](https://pythontic.com)
