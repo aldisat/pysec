@@ -3,7 +3,7 @@
 - [A Guide to Python Programming for Cybersecurity](https://simpleprogrammer.com/python-programming-for-cybersecurity/)
 
 ## Networking
-- Socket
+- **Socket** adalah sebuah endpoint yang berfungsi untuk menghubungkan program dengan internet
 
 ## Resource
 ### Books
@@ -20,3 +20,4 @@
 - [Real Python](https://realpython.com)
 - [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
 - [Python programming tutorial](https://pythonprogramming.net/)
+- [Pythontic](https://pythontic.com)
