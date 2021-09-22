@@ -1,7 +1,12 @@
 import socket
 
+# Membuat socket tcp
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+# meng-set host dan port server 
 s.bind((socket.gethostname(), 1234))
+
+# enable server for accpt connection. Hanya bisa 5 koneksi dalam satu waktu 
 s.listen(5)
 
 while True:

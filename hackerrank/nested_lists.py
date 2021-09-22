@@ -1,13 +1,13 @@
 if __name__ == '__main__':
     testaja = []
+    testaja2 = []
     for _ in range(int(input())):
         name = input()
         score = float(input())
         testaja.append([score, name])
     for i in testaja:
-        print(i[0], end='')
-    # if (x[1][0] == x[2][0]):
-        # print(x[1][0], x[2][0])
-    # else:
-        # print(x[1][0])
-
+        testaja2.append(i[0])
+    x = sorted(list(set(testaja2)))
+    for k in sorted(testaja):
+        if k[0] == x[1]:
+           print(k[1])
