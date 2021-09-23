@@ -3,7 +3,7 @@
 - [A Guide to Python Programming for Cybersecurity](https://simpleprogrammer.com/python-programming-for-cybersecurity/)
 
 ## Modules
-### Socket
+1. Socket
 
 ## Resource
 ### Books
